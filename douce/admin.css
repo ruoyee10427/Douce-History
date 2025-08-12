@@ -1,0 +1,29 @@
+admin.css
+a{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+body{
+    background-color: rgb(213, 205, 205);
+}
+table {
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: azure;
+}
+th {
+    border: 1px solid #fe3ca4;
+    padding: 15px;
+    background-color: #fe3ca4;
+    color: white;
+}
+td {
+    border:0.5px solid #734a5b;
+}
+h2 {
+    font-size: 25px;
+    color: #333;
+    text-align: center;
+}
